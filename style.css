@@ -12,6 +12,8 @@
   margin-bottom: 5px;
   overflow: hidden;
 
+  gap: 5px;
+
   background-color: #bcb8b1;
   border: 1px rgb(0, 0, 0, 0);
   border-radius: 12px;
